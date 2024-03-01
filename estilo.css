@@ -1,0 +1,30 @@
+h1{
+    font-size: 60px;
+color: rgba(41, 65, 3, 0.637);
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+hr{
+    width: 50%;
+    height: 5px;
+    background: rgb(56, 102, 14)
+}
+
+p{
+    
+}
+
+
+body{
+    background-color: rgb(193, 212, 157);
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    display: inline-block;
+        
+}
